@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **tarunkumar8059@gmail.com**
 
-- 📄 Know about my experiences [https://3d-portfolio-h-57.vercel.app/](https://3d-portfolio-h-57.vercel.app/)
+- 📄 Know about my experiences [https://tarunkumar-3d.vercel.app/](https://tarunkumar-3d.vercel.app/)
 
 - ⚡ Fun fact **Huge conversations on tech**
 
