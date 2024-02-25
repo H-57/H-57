@@ -21,13 +21,13 @@
 
 - 🔭 I’m currently working on [Ecommerce webapp](https://mybag.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://tarunkumar-3d.vercel.app/](https://tarunkumar-3d.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.bugslayer.in](https://www.bugslayer.in/projects)
 
 - 💬 Ask me about **React, Node.js, Express.js, MongoDB,Next .js**
 
 - 📫 How to reach me **tarunkumar8059@gmail.com**
 
-- 📄 Know about my experiences [https://tarunkumar-3d.vercel.app/](https://tarunkumar-3d.vercel.app/)
+- 📄 Know about my experiences [https://www.bugslayer.in](https://www.bugslayer.in)
 
 - ⚡ Fun fact **Huge conversations on tech**
 
